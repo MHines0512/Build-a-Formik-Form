@@ -1,7 +1,6 @@
 # Build-a-Formik-Form
 
-
-
+This exercise creates a login form with validation using Formik.
 
 MIT License
 
